@@ -63,7 +63,7 @@ porque?
 	Ademas al ser hibrida se tiene una inversion inicial mas economica que con una privada y se puede contar con Saas, PaaS o IaaS
 
 * ¿Implementaría un cache del lado del cliente? ¿Porque?
-	Implimplementaria del lado del cliente si es que no necesito actualizar información de manera inmediata.
+	Implementaria del lado del cliente si es que no necesito actualizar información de manera inmediata.
 * ¿Cuál es la diferencia entre SOAP y REST?
 	Soap es un protocolo de comunicacion , se intercambian mensajes a travez de especificaciones en XML
 	soap necesita un archivo wsdl donde se definen las interfaces entre el servicio y el cliente
